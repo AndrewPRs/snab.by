@@ -1,0 +1,9 @@
+
+{
+  "name": "snab.by Procurement System",
+  "description": "Professional B2B platform for procurement management with AI-assisted cataloging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
